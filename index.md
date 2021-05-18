@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 미술 감상 비평 챗봇
 
 You can use the [editor on GitHub](https://github.com/khk4300/CriticBot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

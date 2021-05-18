@@ -1,12 +1,10 @@
 ## 미술 감상 비평 챗봇
 
-You can use the [editor on GitHub](https://github.com/khk4300/CriticBot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+동국대학교 AI융합교육 김희경 (2020128033)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 챗봇 소개
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+앤더슨의 비평 단계에 따라 발문을 통해 학습자의 반응을 이끌어내고, 학습자가 작품을 감상하고 분석하여 미학적 가치를 판단하도록 도와주는 챗봇입니다.
 
 ```markdown
 Syntax highlighted code block

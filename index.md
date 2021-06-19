@@ -8,4 +8,4 @@
 
 앤더슨의 비평 단계는 반응-기술-해석-평가-일반화 입니다.
 
-https://user-images.githubusercontent.com/81298259/122635313-1666ec00-d11e-11eb-8394-285981a94e83.png
+![테오](https://user-images.githubusercontent.com/81298259/122635313-1666ec00-d11e-11eb-8394-285981a94e83.png)
